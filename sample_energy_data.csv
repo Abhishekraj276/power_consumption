@@ -1,0 +1,5 @@
+DayOfMonth,DayOfWeek,Energy_Lag_168h,Energy_Lag_24h,Energy_MA_24h,Hour,Month,Is_Weekend,Season,Temperature,Humidity,Energy_Lag_1h,Energy_Lag_2h,Energy_Lag_3h,Energy_MA_3h,Energy_MA_6h,Energy_MA_12h,Previous_Hour_Load,Time_Of_Day_Category
+15,2,95.3,100.2,102.5,14,6,0,2,22.5,45.2,98.7,97.3,99.1,101.2,102.8,103.5,99.8,1
+16,3,98.1,105.7,107.3,9,6,0,2,24.1,50.3,103.2,104.1,102.8,106.2,107.1,108.3,104.5,0
+14,1,92.8,98.5,100.1,18,6,0,2,20.8,60.1,96.3,97.8,95.6,99.2,100.5,101.7,97.2,2
+17,4,101.2,110.3,108.7,22,6,0,2,23.4,55.7,107.8,108.9,106.5,109.2,108.1,107.8,109.1,2
