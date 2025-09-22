@@ -57,6 +57,28 @@ Extracted new features from the timestamp:
 3. Use the processed data for further analysis or modeling.  
 
 ---
+## 🖥️ Web App (Flask UI)
+
+This project also includes a **Flask-based web interface** for making predictions.  
+You can either upload a CSV file or provide manual inputs.
+
+### Features
+- Upload CSV with required 19 columns
+- Predict energy consumption instantly
+- Simple and clean Bootstrap UI
+
+### Screenshots
+#### Upload CSV for Prediction
+![Upload CSV](images/1.png)
+
+#### Prediction Result
+![Prediction Result](images/3.png)
+
+#### Prediction Result
+![Prediction Result](images/2.png)
+
+#### Prediction Result
+![Prediction Result](images/4.png)
 
 ## 📦 Dependencies
 - [pandas](https://pandas.pydata.org/)  
@@ -65,4 +87,4 @@ Extracted new features from the timestamp:
 
 Install dependencies using:  
 ```bash
-pip install pandas matplotlib seaborn
+pip install pandas matplotlib seaborn flash
